@@ -1,5 +1,5 @@
-# Mentoria2025
-## DiploDatos 2025 - Mentoría " Customizing offers: ¿Cómo clasifico a mis clientes? Machine Learning aplicado a un caso de negocio financiero"
+# Mentoria2026
+## DiploDatos 2026 - Mentoría "Como el Machine Learning puede mejorar la deteccion de fraude en tarjeta, desarrollamos modelos predictivos para el blindaje de ecosistemas de pago"
 
 En la actualidad donde la información abunda, las propuestas comerciales y las opciones de selección crecen exponencialmente, en nuestro banco, pensamos que es momento de adoptar un enfoque basado en la personalización de las ofertas comerciales para nuestra cartera de individuos.
 
