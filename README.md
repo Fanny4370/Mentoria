@@ -4,28 +4,28 @@
 Nuestro Banco se ha propuesto este año hacer foco en el Cliente, y una de las principales premisas es Cuidarlo, para ello se ha tomado como desafio el desarrollo de un modelo capaz de predecir unos de los flagelos mas presente en estos dias, el fraude bancario, pero ¿que es un fraude bancario? para entenderlo vamos a interiorizarnos al respecto.
 El fraude ha evolucionado a la par de la tecnología, pasando de métodos físicos a esquemas digitales muy sofisticados. Los riesgos que nuestro cliente puede sufrir un fraude los podemos dividir en tres grandes categorías: el robo de identidad, la manipulación mediante ingeniería social y el compromiso de dispositivos físicos.
 
-### Ingeniería Social (Engaños Digitales)
+#### Ingeniería Social (Engaños Digitales)
 En estos casos, el delincuente no "hackea" el sistema, sino que manipula a la persona para que entregue sus claves de forma voluntaria.
 
-Phishing: Es el método más clásico. Recibes un correo electrónico que imita a la perfección la estética de tu banco, alegando un "bloqueo de cuenta" o una "compra sospechosa", con un enlace a una web falsa para que ingreses tus credenciales.
+##### Phishing: Es el método más clásico. Recibes un correo electrónico que imita a la perfección la estética de tu banco, alegando un "bloqueo de cuenta" o una "compra sospechosa", con un enlace a una web falsa para que ingreses tus credenciales.
 
-Smishing: Similar al phishing, pero a través de mensajes de SMS. Suelen incluir enlaces acortados que redirigen a sitios maliciosos.
+##### Smishing: Similar al phishing, pero a través de mensajes de SMS. Suelen incluir enlaces acortados que redirigen a sitios maliciosos.
 
-Vishing: El fraude ocurre por llamada telefónica. Un supuesto operador técnico o de seguridad te guía para que le dictes un código de verificación  o realices una transferencia "de prueba" a una "cuenta segura".
+##### Vishing: El fraude ocurre por llamada telefónica. Un supuesto operador técnico o de seguridad te guía para que le dictes un código de verificación  o realices una transferencia "de prueba" a una "cuenta segura".
 
-2. Fraude con Tarjetas de Crédito y Débito
+#### Fraude con Tarjetas de Crédito y Débito
 Afecta directamente al plástico o a los datos impresos en él.
 
-Skimming: Consiste en el clonado de la banda magnética. Se instalan dispositivos ocultos en los lectores de los cajeros automáticos o terminales de pago (POS) para copiar la información.
+##### Skimming: Consiste en el clonado de la banda magnética. Se instalan dispositivos ocultos en los lectores de los cajeros automáticos o terminales de pago (POS) para copiar la información.
 
-Carding: Es el uso de software para generar números de tarjeta de forma aleatoria hasta encontrar uno que funcione, permitiendo realizar compras pequeñas en sitios de e-commerce que no validan el código de seguridad (CVV) con rigor.
+##### Carding: Es el uso de software para generar números de tarjeta de forma aleatoria hasta encontrar uno que funcione, permitiendo realizar compras pequeñas en sitios de e-commerce que no validan el código de seguridad (CVV) con rigor.
 
-3. Compromiso de Cuentas y Dispositivos
+#### Compromiso de Cuentas y Dispositivos
 Apunta a tomar el control total del acceso bancario del cliente.
 
-SIM Swapping: El atacante logra que la compañía telefónica duplique tu tarjeta SIM. Una vez que tu teléfono pierde señal, el delincuente recibe tus SMS de recuperación de contraseña y códigos de validación, vaciando las cuentas en minutos.
+##### SIM Swapping: El atacante logra que la compañía telefónica duplique tu tarjeta SIM. Una vez que tu teléfono pierde señal, el delincuente recibe tus SMS de recuperación de contraseña y códigos de validación, vaciando las cuentas en minutos.
 
-Malware Bancario: Virus o troyanos diseñados específicamente para interceptar aplicaciones financieras. Algunos pueden superponer pantallas invisibles sobre la app real del banco para capturar el PIN de acceso.
+##### Malware Bancario: Virus o troyanos diseñados específicamente para interceptar aplicaciones financieras. Algunos pueden superponer pantallas invisibles sobre la app real del banco para capturar el PIN de acceso.
 
 Entre otros, y cada vez se vuelve mas sofisticado el procedimiento para llevar a cabo el fraude.
 
