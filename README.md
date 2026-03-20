@@ -4,7 +4,7 @@
 Nuestro Banco se ha propuesto este año hacer foco en el Cliente, y una de las principales premisas es Cuidarlo, para ello se ha tomado como desafio el desarrollo de un modelo capaz de predecir unos de los flagelos mas presente en estos dias, el fraude bancario, pero ¿que es un fraude bancario? para entenderlo vamos a interiorizarnos al respecto.
 El fraude ha evolucionado a la par de la tecnología, pasando de métodos físicos a esquemas digitales muy sofisticados. Los riesgos que nuestro cliente puede sufrir un fraude los podemos dividir en tres grandes categorías: el robo de identidad, la manipulación mediante ingeniería social y el compromiso de dispositivos físicos.
 
-1. Ingeniería Social (Engaños Digitales)
+###Ingeniería Social (Engaños Digitales)
 En estos casos, el delincuente no "hackea" el sistema, sino que manipula a la persona para que entregue sus claves de forma voluntaria.
 
 Phishing: Es el método más clásico. Recibes un correo electrónico que imita a la perfección la estética de tu banco, alegando un "bloqueo de cuenta" o una "compra sospechosa", con un enlace a una web falsa para que ingreses tus credenciales.
